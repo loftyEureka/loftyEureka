@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eureka Teklemariam
 - 👀 I’m interested in cyber security,competative programing,back end development and machine learning
-- 🌱 I’m currently learning full stack web programming
-- 💞️ I’m looking to collaborate on startups,projects 
+- 🌱 I’m currently learning and exploring the world of computer science and software engineering
+- 💞️ I’m looking to collaborate on sany projects, startups and bootcamps
 - 📫 How to reach me loftyeureka@gmail.com
 
 <!---
